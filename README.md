@@ -1,0 +1,1 @@
+This work is based on "東方 Project - Cirno Fumo (3D scan)" (https://sketchfab.com/3d-models/project-cirno-fumo-3d-scan-efd2a7f4dbf048c1a18438db7f86c4b9) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
