@@ -80,3 +80,11 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/thesaikis/thesaikis.github.io
+      - title: "Minesweeper RL Research"
+        content: "I conducted an analysis on different reinforcement learning algorithms for the game of Minesweeper. I also explored various strategies to represent the state of the game in order to improve win rates. You can view the original research paper, or a poster I presented on a part of the project below."
+        image: "/images/minesweeper-preview.png"
+        links:
+          - icon: fas fa-book
+            url: "/documents/Comparative Analysis of Reinforcement Learning Strategies for Minesweeper.pdf"
+          - icon: fas fa-square-poll-vertical
+            url: "/documents/poster.pdf"
