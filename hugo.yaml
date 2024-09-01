@@ -5,6 +5,7 @@ theme: "hugo-profile"
 
 params:
   animate: true
+  tab_favicon: "/favicon.ico"
 
   navbar:
     disableSearch: true
@@ -66,3 +67,14 @@ params:
     - job: "Coding Instructor"
       company: "theCoderSchool"
       date: "June 2019 - October 2019"
+
+  projects:
+    enable: true
+    
+    items:
+      - title: "Portfolio Website"
+        content: "You're looking at one of my projects right now! This is hosted on GitHub pages. You can view the source code below."
+        image: "/images/portfolio-preview.png"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/thesaikis/thesaikis.github.io
