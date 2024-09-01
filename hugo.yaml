@@ -9,6 +9,8 @@ params:
 
   navbar:
     disableSearch: true
+    stickyNavBar:
+      enable: true
 
   hero:
     enable: true
