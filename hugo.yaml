@@ -40,11 +40,13 @@ params:
           name: "University of Illinois Urbana-Champaign"
         date: "2024 - 2025"
         GPA: "4.0"
+        image: "/images/uiuc.png"
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "University of California, Santa Cruz"
         date: "2020 - 2023"
         GPA: "3.82"
+        image: "/images/fiat-slug.png"
 
   experience:
     enable: true
