@@ -4,6 +4,11 @@ title: "Shane Sawyer"
 theme: "hugo-profile"
 
 params:
+  animate: true
+
+  navbar:
+    disableSearch: true
+
   hero:
     enable: true
     intro: "Hi, my name is"
@@ -25,3 +30,37 @@ params:
           url: https://www.linkedin.com/in/shanesawyer1/
         - icon: fab fa-github
           url: https://github.com/thesaikis
+
+  education:
+    enable: true
+    index: false
+    items:
+      - title: "Master of Computer Science"
+        school:
+          name: "University of Illinois Urbana-Champaign"
+        date: "2024 - 2025"
+        GPA: "4.0"
+      - title: "Bachelor of Science in Computer Science"
+        school:
+          name: "University of California, Santa Cruz"
+        date: "2020 - 2023"
+        GPA: "3.82"
+
+  experience:
+    enable: true
+    items:
+    - job: "Software Developer"
+      company: "DataAnnotation"
+      date: "May 2024 - Present"
+    - job: "Lead AI Engineer"
+      company: "UCSC"
+      date: "April 2023 - June 2023"
+    - job: "Algorithms & C Software Assistant"
+      company: "UCSC"
+      date: "September 2021 - March 2022"
+    - job: "Math Instructor"
+      company: "Mathnasium"
+      date: "June 2021 - September 2021"
+    - job: "Coding Instructor"
+      company: "theCoderSchool"
+      date: "June 2019 - October 2019"
