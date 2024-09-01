@@ -1,0 +1,27 @@
+baseURL: "https://www.shanesawyer.dev"
+languageCode: "en-us"
+title: "Shane Sawyer"
+theme: "hugo-profile"
+
+params:
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Shane Sawyer."
+    subtitle: "CS Master's student at UIUC"
+    content: "Professional with hands-on experience in software development, artificial intelligence, and database systems. Passionate about scalable software development and skilled in Python, C/C++, and SQL. Experienced in building interactive web applications and managing cloud-hosted projects. Seeking to apply my expertise in software engineering roles, particularly in AI-driven or cloud-based environments."
+    image: "/images/me.jpg"
+    bottomImage:
+      enable: true
+    button:
+      enable: true
+      name: "Resume"
+      download: false
+      newPage: true
+      url: "/documents/Shane Sawyer Resume.pdf"
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/shanesawyer1/
+        - icon: fab fa-github
+          url: https://github.com/thesaikis
